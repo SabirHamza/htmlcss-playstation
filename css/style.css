@@ -10,7 +10,7 @@
     color: white;
 }
 
-.logoreturnal{
+.game{
     width: 100%;
 }
 
@@ -19,6 +19,11 @@
     background-color: #CD3D0F;
 }
 
-.game{
-    width: 100%;
+.accessories{
+    opacity: 50%;
+}
+
+.accessories:hover{
+    opacity: 100%;
+    border-bottom: 3px solid blue;
 }

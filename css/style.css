@@ -21,6 +21,7 @@
 
 .accessories{
     opacity: 50%;
+    border-bottom: 3px solid white;
 }
 
 .accessories:hover{

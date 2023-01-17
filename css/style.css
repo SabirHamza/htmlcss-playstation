@@ -3,8 +3,15 @@
 }
 
 .jumbodron{
-    height: 80vh;
     background-image: url(../img/jumbo-bg.png);
+}
+
+.newgame{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+}
+
+.back{
+    height: 80vh;
     background-size: cover;
     background-position: center;
     color: white;
@@ -27,4 +34,8 @@
 .accessories:hover{
     opacity: 100%;
     border-bottom: 3px solid blue;
+}
+
+.psplus{
+    background-color: #BEBCBB;
 }
